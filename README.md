@@ -1,0 +1,2 @@
+# Comments on: A Method of Automated Nonparametric Content Analysis for Social Science
+[Hopkins, Daniel J. and Gary King. 2010. “A Method of Automated Nonparametric Content Analysis for Social Science”. American Journal of Political Science 54(1): 229-247.](('http://gking.harvard.edu/gking/files/words.pdf',))
